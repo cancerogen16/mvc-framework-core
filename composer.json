@@ -2,9 +2,14 @@
     "name": "erast/phpmvc",
     "authors": [
         {
-            "name": "cancerogen16",
+            "name": "erast",
             "email": "don544@mail.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "erast\\phpmvc\\": "."
+        }
+    }
 }

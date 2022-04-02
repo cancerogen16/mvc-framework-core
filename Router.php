@@ -1,12 +1,12 @@
 <?php
 
-namespace App\core;
+namespace erast\phpmvc;
 
 use App\controllers\Controller;
-use App\core\Exceptions\NotFoundException;
+use erast\phpmvc\Exceptions\NotFoundException;
 
 /**
- * @package App\core
+ * @package erast\phpmvc
  */
 class Router
 {

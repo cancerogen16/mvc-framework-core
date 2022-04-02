@@ -1,9 +1,9 @@
 <?php
 
-namespace App\core\Db;
+namespace erast\phpmvc\Db;
 
-use App\core\Application;
-use App\core\Model;
+use erast\phpmvc\Application;
+use erast\phpmvc\Model;
 use PDOStatement;
 
 abstract class DbModel extends Model

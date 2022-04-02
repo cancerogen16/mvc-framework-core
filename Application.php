@@ -1,9 +1,9 @@
 <?php
 
-namespace App\core;
+namespace erast\phpmvc;
 
 use App\controllers\Controller;
-use App\core\Db\Database;
+use erast\phpmvc\Db\Database;
 
 class Application
 {
