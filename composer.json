@@ -1,0 +1,10 @@
+{
+    "name": "erast/phpmvc",
+    "authors": [
+        {
+            "name": "cancerogen16",
+            "email": "don544@mail.ru"
+        }
+    ],
+    "require": {}
+}
